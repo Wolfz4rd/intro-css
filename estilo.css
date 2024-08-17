@@ -2,3 +2,20 @@
 h1 {
     color:blueviolet;
 }
+article h2 {
+    color: aquamarine;
+}
+
+/* selector con clases */
+.texto {
+    color: blue;
+}
+/* article p {
+    color: crimson;
+} */
+
+/* selector id */
+#texto2 {
+    color: forestgreen;
+}
+}
